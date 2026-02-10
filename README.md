@@ -1,117 +1,61 @@
+# Hi there, I'm Tony 👋
 
+### Full-Stack Web Developer | Java Backend Engineer | AI & Data Enthusiast
 
-## Hello World  
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="" width="600" />
-</div>  
-  
+I'm a passionate software engineer from China, specializing in **Java backend development** with full-stack capabilities. Currently building innovative side projects that leverage AI, data analysis, and modern web technologies. I also develop iOS apps as personal ventures, some generating revenue through subscriptions and in-app features.
 
-### <div align="center">我叫Tony，一名Web全栈开发工程师 👨‍💻 Java后端开发为主 🚀</div>  
-  
+🔭 **Currently working on**: AI-driven business intelligence tools and medical imaging platforms  
+🌱 **Learning & Exploring**: Advanced AIGC integrations, distributed systems, and SwiftUI for mobile  
+💼 **Professional Experience**: 2+ years in Java web development at an internet company  
+🚀 **Side Hustles**: Monetized personal projects (e.g., intelligent data platforms with real-user adoption)
 
-- 🔭 目前就职于一家互联网公司从事Java开发 [Github](https://github.com/change-everything)  
-  
+Visit my portfolio: [nexuracloud.cn](https://www.nexuracloud.cn)
 
-- 🌱 我目前正在做一些个人项目
+## 🛠 Tech Stack & Skills
 
-  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-<br/>  
+- **Backend**: Java, Spring Boot, RabbitMQ, MyBatis, Dubbo, Redisson
+- **Frontend**: Vue 2/3, React, TypeScript
+- **AI/ML**: PyTorch, OpenCV, AIGC (LLM integrations)
+- **Mobile**: SwiftUI, iOS Development (2 published personal apps with revenue)
+- **Others**: WebSocket, Server-Sent Events, EasyExcel, Distributed Systems
 
+## 🔥 Featured Projects
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+- **[nexura-next-bi](https://github.com/change-everything/nexura-next-bi)** ⭐ 30  
+  AI-powered intelligent data analysis platform using Spring Boot + RabbitMQ + AIGC. Users upload datasets and describe needs in natural language → auto-generates charts and insights.  
+  🏆 **Live Demo**: [nextbi.nexuracloud.cn](https://nextbi.nexuracloud.cn)  
+  Tech: Java, React, Redis, WebSocket
 
+- **[BrainU](https://github.com/change-everything/BrainU)** ⭐ 19  
+  Web platform for automatic brain tumor segmentation from MRI scans using multi-modal UNet + PyTorch + OpenCV.  
+  Tech: Java, Vue 2, Spring Boot, PyTorch
 
+- **[nexura-next-api](https://github.com/change-everything/nexura-next-api)**  
+  API marketplace platform with visualization, SDK, and debugging tools. Built with React + Spring Boot + Dubbo.
 
-### Frontend  
-<div align="center">  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
-</div>
+- **Personal iOS Apps** (Private repos / App Store): Two revenue-generating apps focused on productivity and utilities.
 
-</td><td valign="top" width="33%">
+More projects: API gateways, code sandboxes, property management systems.
 
+## 📊 GitHub Stats
 
+[![Tony's GitHub Stats](https://github-readme-stats.vercel.app/api?username=change-everything&show_icons=true&theme=radical&count_private=true)](https://github.com/change-everything)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=change-everything&layout=compact&theme=radical)](https://github.com/change-everything)
 
-### Backend  
-<div align="center">  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" /></a>  
-<a href="https://www.rabbitmq.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg" alt="RabbitMQ" height="50" /></a>  
-<a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.elastic.co/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/elasticsearch.png" alt="Elastic Search" height="50" /></a>  
-</div>
+## 📫 Connect with Me
 
-</td><td valign="top" width="33%">
+- Email: pyptsguas@163.com (from your repo feedback)
+- Website/Portfolio: [nexuracloud.cn](https://www.nexuracloud.cn)
+- LinkedIn: (Add your link if you have one!)
 
-
-
-### DevOps  
-<div align="center">  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/rishavanand" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/rishavanand" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=change-everything&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-<div align="center">
-            <a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+Thanks for visiting! 🚀 Feel free to star/fork my projects or reach out for collaborations.
