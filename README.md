@@ -1,65 +1,157 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=435&lines=root@github:~%23+init+change-everything;Loading+profile...;Target:+Java+%26+Rust+Ecosystem;Mission:+Privacy+First+%7C+AI+Powered" alt="Typing SVG" />
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=260&section=header&text=Tony%20Pei&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=42"/>
+</p>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Status-Online-success?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Role-Full_Stack_Hacker-blueviolet?style=for-the-badge&logo=kalilinux" />
-</div>
-<br/>
+<p align="center">
+  <b>System Builder · Full-Stack Engineer · AI Integration · Indie Hacker</b>
+</p>
 
-### 🧬 Identity.rs
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=change-everything&color=0e75b6&style=for-the-badge"/>
+</p>
 
-```rust
-struct Developer {
-    name: String,
-    id: String,
-    core_skills: Vec<&'static str>,
-    philosophy: &'static str,
-}
+## 👋 About Me
 
-impl Developer {
-    fn new() -> Self {
-        Developer {
-            name: "PeiYP".to_string(),
-            id: "change-everything".to_string(),
-            core_skills: vec![
-                "Java (Spring Boot)", 
-                "Rust (System)", 
-                "AI (PyTorch)"
-            ],
-            philosophy: "Talk is cheap. Show me the code.",
-        }
-    }
-}
+I build **real-world production systems** — scalable backend architecture, AI-powered applications, and monetized software products.
+
+- Full-stack system engineering  
+- AI-powered product development  
+- Distributed architecture & automation  
+- Engineering + Product mindset  
+- Shipping > Talking  
+
+**Currently building**
+
+- AI Intelligent BI Platform  
+- Automation & intelligent systems  
+- Scalable real-world products  
+
+## ⚙️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,vue,react,ts,nodejs,docker,redis,mysql,linux,nginx,aws,python,pytorch,opencv" />
+</p>
+
+### 📱 Apple / iOS Ecosystem
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=swift,objc,apple,xcode,firebase" />
+</p>
+
+**Core**
+
+- Swift / SwiftUI / UIKit  
+- MVVM / Clean Architecture  
+- WidgetKit · Live Activities · App Intents  
+- On-device AI · Offline-first apps  
+- CoreData · SQLite · Realm  
+- In-App Purchase · Subscription · Monetization  
+
+## 📊 Engineering Activity
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=change-everything&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=change-everything&theme=tokyonight"/>
+</p>
+
+## 🚀 Featured Projects
+
+<p align="center">
+<b>Production systems · Real engineering · Scalable architecture</b>
+</p>
+
+<table>
+<tr>
+<td width="50%">
+
+### 🧠 AI Intelligent BI Platform  
+Natural Language → Insight → Visualization  
+
+- Real-time AI analytics engine  
+- Automatic chart & insight generation  
+- Scalable event-driven architecture  
+
+**Stack**  
+`Java` `SpringBoot` `React` `Redis` `WebSocket` `AIGC`
+
+<a href="https://github.com/change-everything/nexura-next-bi">
+<img src="https://img.shields.io/badge/View%20Project-0a0a0a?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+### 🧬 Brain Tumor Segmentation  
+Medical AI · MRI Auto Detection  
+
+- Deep learning medical imaging  
+- Automated tumor segmentation  
+- Clinical-grade pipeline  
+
+**Stack**  
+`PyTorch` `OpenCV` `SpringBoot` `Vue`
+
+<a href="https://github.com/change-everything/BrainU">
+<img src="https://img.shields.io/badge/View%20Project-0a0a0a?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+
+## ⚡ Engineering Philosophy
+
+<p align="center">
+
+```text
+Build real systems · Ship real products · Solve real problems
 ```
 
-### 📊 System_Metrics
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=change-everything&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=change-everything&layout=compact&theme=radical&hide_border=true&langs_count=6" height="180" alt="languages" />
-</div>
-<br/>
+- Production-first mindset
+- Architecture & scalability focused
+- Performance & reliability driven
+- Automation & intelligent systems
+- Engineering + Product thinking
 
-### 🛠️ Arsenal
+## 🧩 Indie Hacker
 
-| Category | Tech Stack |
-| :--- | :--- |
-| **Backend** | ![Java](https://img.shields.io/badge/-Java-000?style=flat-square&logo=openjdk) ![Spring](https://img.shields.io/badge/-Spring-000?style=flat-square&logo=spring) ![Rust](https://img.shields.io/badge/-Rust-000?style=flat-square&logo=rust) |
-| **Database** | ![MySQL](https://img.shields.io/badge/-MySQL-000?style=flat-square&logo=mysql) ![Redis](https://img.shields.io/badge/-Redis-000?style=flat-square&logo=redis) ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=flat-square&logo=mongodb) |
-| **Infra** | ![Docker](https://img.shields.io/badge/-Docker-000?style=flat-square&logo=docker) ![Linux](https://img.shields.io/badge/-Linux-000?style=flat-square&logo=linux) ![Git](https://img.shields.io/badge/-Git-000?style=flat-square&logo=git) |
-| **Frontend/AI** | ![Vue](https://img.shields.io/badge/-Vue.js-000?style=flat-square&logo=vue.js) ![PyTorch](https://img.shields.io/badge/-PyTorch-000?style=flat-square&logo=pytorch) |
+<p align="center">
 
-<br/>
-
-### 📡 Uplink
-
-> Initiating secure connection...
-
-```bash
-# Copy and run this in your terminal to contact me:
-echo "ZW1haWxAZXhhbXBsZS5jb20=" | base64 -d
+```text
+Engineer who ships products, not just code
 ```
-<div align="right"> <sub><i>End of transmission.</i></sub> </div>
+
+</p>
+
+- Built monetized software products
+- Focus on profitable & scalable apps
+- Long-term product builder
+- Building in public 🚀
+
+## 🏆 Technical Signals
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=change-everything&theme=darkhub&no-frame=true&row=1&column=6"/>
+</p>
+
+## 🌍 Connect
+
+<p align="center">
+
+<a href="https://www.nexuracloud.cn">
+<img src="https://img.shields.io/badge/Website-NexuraCloud-111111?style=for-the-badge&logo=vercel"/>
+</a>
+
+<a href="mailto:pyptsguas@163.com">
+<img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
