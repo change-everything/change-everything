@@ -137,9 +137,8 @@ Engineer who ships products, not just code
 
 ## 🏆 Technical Signals
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=change-everything&theme=darkhub&no-frame=true&row=1&column=6"/>
-</p>
+<img src="https://github-profile-trophy-git-main-ryo-ma.vercel.app/?username=change-everything&theme=darkhub&no-frame=true&row=1&column=6"/>
+
 
 ## 🌍 Connect
 
