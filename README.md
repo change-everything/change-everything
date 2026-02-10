@@ -1,77 +1,75 @@
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=240&section=header&text=Tony%20Pei&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+</p>
 
-# Hi, I'm Tony 👋
+<p align="center">
+  <b>System Builder · Full-Stack Engineer · AI Integration · Indie Hacker</b>
+</p>
 
-**Senior Full-Stack Java Engineer | Backend & Security Specialist**
+## 👋 About Me
 
-Professional software engineer with **2+ years** of enterprise experience in Java backend development. Expertise in secure systems, industrial IoT, collaboration tools, AI integration, and monetized mobile apps.
+I build **real-world production systems** — scalable backend architecture, AI-powered applications, and monetized software products.
 
-**Core Strengths**: Scalable Architecture • Cybersecurity • Distributed Systems • AI-Driven Solutions
+- 5+ years building full-stack systems
+- Focus on **distributed architecture & security**
+- Building profitable products as an **Indie Hacker**
+- Shipping > Talking
 
-</div>
+Currently working on:
+- AI-powered BI Platform
+- Intelligent automation systems
+- Next-gen product engineering
 
-## 💼 Professional Experience
 
-- **Host Security Systems**  
-  Developed comprehensive server protection platforms with threat detection, vulnerability scanning, and secure configuration enforcement.
+## ⚙️ Tech Stack
 
-- **Industrial Internet of Things (IIoT)**  
-  Built secure device connectivity platforms for real-time data processing and edge-to-cloud integration in industrial environments.
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring,vue,react,ts,nodejs,docker,redis,mysql,swift,linux,python,pytorch,opencv,nginx,aws" />
+</p>
 
-- **Office Automation (OA) Systems**  
-  Implemented enterprise-grade workflow tools featuring document management, approval automation, and team collaboration.
 
-- **Instant Messaging (IM) Platforms**  
-  Designed real-time communication systems with encryption, group features, and seamless enterprise integration.
+## 📊 GitHub Performance
 
-- **Current Role**: Full-stack Java web development in the internet industry (2+ years)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=change-everything&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=change-everything&theme=tokyonight&hide_border=true" height="165"/>
+</p>
 
-## 🛠 Skills & Technologies
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=change-everything&theme=tokyonight"/>
+</p>
 
-<div align="center">
 
-| Category          | Key Technologies                                                    |
-|-------------------|---------------------------------------------------------------------|
-| **Backend**       | Java, Spring Boot, RabbitMQ, MyBatis, Dubbo, Redisson, WebSocket   |
-| **Security**      | Host Protection, Threat Detection, Secure Data Handling             |
-| **Frontend**      | Vue 3, React, TypeScript                                            |
-| **AI/ML**         | PyTorch, OpenCV, AIGC/LLM Integrations                               |
-| **DevOps**        | Docker, Redis, MySQL, Distributed Systems                           |
-| **Mobile**        | SwiftUI, iOS Development (2 revenue-generating apps)                |
-| **Enterprise**    | IIoT Platforms, OA Workflow, Real-Time IM Systems                   |
+## 🚀 Featured Projects
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+### 🧠 AI Intelligent BI Platform
+AI-powered data analytics using natural language → auto visualization & insights  
+**Tech:** Java · React · Redis · WebSocket · AIGC  
+🔗 https://github.com/change-everything/nexura-next-bi  
 
-</div>
+---
 
-## 🌟 Featured Projects
+### 🧬 Brain Tumor Segmentation (Medical AI)
+Automatic MRI tumor segmentation with deep learning  
+**Tech:** PyTorch · OpenCV · SpringBoot · Vue  
+🔗 https://github.com/change-everything/BrainU  
 
-<div align="center">
+---
 
-| Project                          | Description                                                                 | Tech Stack                          | Stars |
-|----------------------------------|-----------------------------------------------------------------------------|-------------------------------------|-------|
-| [nexura-next-bi](https://github.com/change-everything/nexura-next-bi) | AI-powered intelligent data analysis: Natural language queries generate charts & insights | Java, React, Redis, WebSocket, AIGC | 30+   |
-| [BrainU](https://github.com/change-everything/BrainU)                 | Automated brain tumor segmentation from MRI using multi-modal UNet         | Java, Vue 2, Spring Boot, PyTorch, OpenCV | 19+   |
-| [nexura-next-api](https://github.com/change-everything/nexura-next-api) | API marketplace with SDK generation and real-time debugging                 | React, Spring Boot, Dubbo           | -     |
+### 🔐 Enterprise Security Platform
+Threat detection · vulnerability scanning · secure configuration  
+Production-level security engineering & automation
 
-**Private Highlights**: 2 monetized iOS productivity/utility apps + enterprise security/IIoT projects.
+## 🧩 Indie Hacker
 
-</div>
+- Built monetized iOS applications
+- Focus on **profitable software**
+- Engineering + Product mindset
+- Building in public 🚀
 
-## 📫 Contact & Opportunities
 
-<div align="center">
+## 🌍 Connect
 
-- **Email**: pyptsguas@163.com  
-- **LinkedIn**: [Add your profile link here]  
-
-Open to full-time roles (visa sponsorship welcome), collaborations on Java, security, AI, or distributed systems projects ⭐
-
-</div>
+- 🌐 Website: https://www.nexuracloud.cn
+- 📧 Email: pyptsguas@163.com
+- 💼 LinkedIn: (Create soon)
