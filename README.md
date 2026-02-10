@@ -1,75 +1,64 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=240&section=header&text=Tony%20Pei&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=435&lines=root@github:~%23+init+change-everything;Loading+profile...;Target:+Java+%26+Rust+Ecosystem;Mission:+Privacy+First+%7C+AI+Powered" alt="Typing SVG" />
+</div>
 
-<p align="center">
-  <b>System Builder · Full-Stack Engineer · AI Integration · Indie Hacker</b>
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Online-success?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Role-Full_Stack_Hacker-blueviolet?style=for-the-badge&logo=kalilinux" />
+</div>
+<br/>
 
-## 👋 About Me
+### 🧬 Identity.rs
 
-I build **real-world production systems** — scalable backend architecture, AI-powered applications, and monetized software products.
+```rust
+struct Developer {
+    name: String,
+    id: String,
+    core_skills: Vec<&'static str>,
+    philosophy: &'static str,
+}
 
-- 5+ years building full-stack systems
-- Focus on **distributed architecture & security**
-- Building profitable products as an **Indie Hacker**
-- Shipping > Talking
+impl Developer {
+    fn new() -> Self {
+        Developer {
+            name: "PeiYP".to_string(),
+            id: "change-everything".to_string(),
+            core_skills: vec![
+                "Java (Spring Boot)", 
+                "Rust (System)", 
+                "AI (PyTorch)"
+            ],
+            philosophy: "Talk is cheap. Show me the code.",
+        }
+    }
+}
 
-Currently working on:
-- AI-powered BI Platform
-- Intelligent automation systems
-- Next-gen product engineering
+### 📊 System_Metrics
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=change-everything&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=change-everything&layout=compact&theme=radical&hide_border=true&langs_count=6" height="180" alt="languages" />
+</div>
+<br/>
 
-## ⚙️ Tech Stack
+### 🛠️ Arsenal
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,spring,vue,react,ts,nodejs,docker,redis,mysql,swift,linux,python,pytorch,opencv,nginx,aws" />
-</p>
+| Category | Tech Stack |
+| :--- | :--- |
+| **Backend** | ![Java](https://img.shields.io/badge/-Java-000?style=flat-square&logo=openjdk) ![Spring](https://img.shields.io/badge/-Spring-000?style=flat-square&logo=spring) ![Rust](https://img.shields.io/badge/-Rust-000?style=flat-square&logo=rust) |
+| **Database** | ![MySQL](https://img.shields.io/badge/-MySQL-000?style=flat-square&logo=mysql) ![Redis](https://img.shields.io/badge/-Redis-000?style=flat-square&logo=redis) ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=flat-square&logo=mongodb) |
+| **Infra** | ![Docker](https://img.shields.io/badge/-Docker-000?style=flat-square&logo=docker) ![Linux](https://img.shields.io/badge/-Linux-000?style=flat-square&logo=linux) ![Git](https://img.shields.io/badge/-Git-000?style=flat-square&logo=git) |
+| **Frontend/AI** | ![Vue](https://img.shields.io/badge/-Vue.js-000?style=flat-square&logo=vue.js) ![PyTorch](https://img.shields.io/badge/-PyTorch-000?style=flat-square&logo=pytorch) |
 
+<br/>
 
-## 📊 GitHub Performance
+### 📡 Uplink
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=change-everything&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=change-everything&theme=tokyonight&hide_border=true" height="165"/>
-</p>
+> Initiating secure connection...
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=change-everything&theme=tokyonight"/>
-</p>
-
-
-## 🚀 Featured Projects
-
-### 🧠 AI Intelligent BI Platform
-AI-powered data analytics using natural language → auto visualization & insights  
-**Tech:** Java · React · Redis · WebSocket · AIGC  
-🔗 https://github.com/change-everything/nexura-next-bi  
-
----
-
-### 🧬 Brain Tumor Segmentation (Medical AI)
-Automatic MRI tumor segmentation with deep learning  
-**Tech:** PyTorch · OpenCV · SpringBoot · Vue  
-🔗 https://github.com/change-everything/BrainU  
-
----
-
-### 🔐 Enterprise Security Platform
-Threat detection · vulnerability scanning · secure configuration  
-Production-level security engineering & automation
-
-## 🧩 Indie Hacker
-
-- Built monetized iOS applications
-- Focus on **profitable software**
-- Engineering + Product mindset
-- Building in public 🚀
-
-
-## 🌍 Connect
-
-- 🌐 Website: https://www.nexuracloud.cn
-- 📧 Email: pyptsguas@163.com
-- 💼 LinkedIn: (Create soon)
+```bash
+# Copy and run this in your terminal to contact me:
+echo "ZW1haWxAZXhhbXBsZS5jb20=" | base64 -d
+```
+<div align="right"> <sub><i>End of transmission.</i></sub> </div>
