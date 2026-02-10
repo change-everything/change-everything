@@ -2,34 +2,43 @@
 
 # Hi, I'm Tony 👋
 
-**Full-Stack Java Engineer | Backend Specialist | AI & Security Enthusiast**
+**Senior Full-Stack Java Engineer | Backend & Security Specialist**
 
-Experienced software engineer with **2+ years** in enterprise Java development. Skilled in building secure, scalable systems for web, industrial IoT, collaboration tools, and AI applications. Also developed revenue-generating iOS apps.
+Professional software engineer with **2+ years** of enterprise experience in Java backend development. Expertise in secure systems, industrial IoT, collaboration tools, AI integration, and monetized mobile apps.
 
-🔍 **Expertise**: Distributed Systems • Cybersecurity • IIoT Integration • Enterprise Collaboration  
-📱 **Entrepreneurial**: 2 monetized personal iOS apps  
+**Core Strengths**: Scalable Architecture • Cybersecurity • Distributed Systems • AI-Driven Solutions
 
 </div>
 
-## 🏆 GitHub Trophies
+## 💼 Professional Experience
 
-<div align="center">
-  <img src="https://github-profile-trophy.lekoq.io/?username=change-everything&theme=radical&no-frame=true&no-bg=false&margin-w=15&margin-h=15" alt="Trophies" />
-</div>
+- **Host Security Systems**  
+  Developed comprehensive server protection platforms with threat detection, vulnerability scanning, and secure configuration enforcement.
+
+- **Industrial Internet of Things (IIoT)**  
+  Built secure device connectivity platforms for real-time data processing and edge-to-cloud integration in industrial environments.
+
+- **Office Automation (OA) Systems**  
+  Implemented enterprise-grade workflow tools featuring document management, approval automation, and team collaboration.
+
+- **Instant Messaging (IM) Platforms**  
+  Designed real-time communication systems with encryption, group features, and seamless enterprise integration.
+
+- **Current Role**: Full-stack Java web development in the internet industry (2+ years)
 
 ## 🛠 Skills & Technologies
 
-| Category          | Technologies                                                                 |
-|-------------------|------------------------------------------------------------------------------|
-| **Backend**       | Java, Spring Boot, RabbitMQ, MyBatis, Dubbo, Redisson, WebSocket            |
-| **Security**      | Host Protection, Privacy Tools, Secure Data Handling                        |
-| **Frontend**      | Vue 3, React, TypeScript                                                    |
-| **AI/ML**         | PyTorch, OpenCV, AIGC/LLM Integrations                                       |
-| **Database/DevOps**| MySQL, Redis, Docker, Distributed Systems                                   |
-| **Mobile**        | SwiftUI, iOS Development (2 revenue-generating apps)                        |
-| **Enterprise**    | IIoT Platforms, OA Systems, Instant Messaging (IM)                          |
-
 <div align="center">
+
+| Category          | Key Technologies                                                    |
+|-------------------|---------------------------------------------------------------------|
+| **Backend**       | Java, Spring Boot, RabbitMQ, MyBatis, Dubbo, Redisson, WebSocket   |
+| **Security**      | Host Protection, Threat Detection, Secure Data Handling             |
+| **Frontend**      | Vue 3, React, TypeScript                                            |
+| **AI/ML**         | PyTorch, OpenCV, AIGC/LLM Integrations                               |
+| **DevOps**        | Docker, Redis, MySQL, Distributed Systems                           |
+| **Mobile**        | SwiftUI, iOS Development (2 revenue-generating apps)                |
+| **Enterprise**    | IIoT Platforms, OA Workflow, Real-Time IM Systems                   |
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
@@ -42,57 +51,27 @@ Experienced software engineer with **2+ years** in enterprise Java development. 
 
 </div>
 
-## 💼 Professional Experience
-
-- **Host Security Project**  
-  Developed server/host protection systems focusing on threat detection, vulnerability scanning, and secure configuration management.
-
-- **Industrial Internet (IIoT) Project**  
-  Built platforms for industrial device connectivity, real-time data processing, and secure edge-to-cloud integration in manufacturing environments.
-
-- **Office Automation (OA) System**  
-  Implemented enterprise workflow automation tools, including document management, approval processes, and collaborative features.
-
-- **Instant Messaging (IM) System**  
-  Designed real-time chat applications with features like message encryption, group communication, and integration with enterprise systems.
-
-- **Current Role**: Java web development in internet industry (2+ years)
-
-## 🌟 Featured Open-Source Projects
+## 🌟 Featured Projects
 
 <div align="center">
 
 | Project                          | Description                                                                 | Tech Stack                          | Stars |
 |----------------------------------|-----------------------------------------------------------------------------|-------------------------------------|-------|
-| [nexura-next-bi](https://github.com/change-everything/nexura-next-bi) | AI-powered data analysis: Natural language queries → auto charts & insights | Java, React, Redis, WebSocket, AIGC | 30+   |
-| [BrainU](https://github.com/change-everything/BrainU)                 | Automated brain tumor segmentation from MRI using multi-modal UNet         | Java, Vue 2, Spring Boot, PyTorch   | 19+   |
+| [nexura-next-bi](https://github.com/change-everything/nexura-next-bi) | AI-powered intelligent data analysis: Natural language queries generate charts & insights | Java, React, Redis, WebSocket, AIGC | 30+   |
+| [BrainU](https://github.com/change-everything/BrainU)                 | Automated brain tumor segmentation from MRI using multi-modal UNet         | Java, Vue 2, Spring Boot, PyTorch, OpenCV | 19+   |
 | [nexura-next-api](https://github.com/change-everything/nexura-next-api) | API marketplace with SDK generation and real-time debugging                 | React, Spring Boot, Dubbo           | -     |
 
-**Private Highlights**: 2 monetized iOS apps + enterprise projects above.
+**Private Highlights**: 2 monetized iOS productivity/utility apps + enterprise security/IIoT projects.
 
 </div>
 
-## 🐍 Contribution Graph
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/change-everything/change-everything/output/snake.svg" alt="Snake" />
-  <br/><br/>
-  <img src="https://raw.githubusercontent.com/change-everything/change-everything/output/snake.gif" alt="Snake Animation" />
-</div>
-
-## 👀 Profile Views
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=change-everything&label=Profile%20Views&color=radical&style=flat-square" alt="Views" />
-</div>
-
-## 📫 Contact
+## 📫 Contact & Opportunities
 
 <div align="center">
 
-- Email: pyptsguas@163.com  
-- LinkedIn: [Add your profile link]  
+- **Email**: pyptsguas@163.com  
+- **LinkedIn**: [Add your profile link here]  
 
-Open to full-time opportunities (visa sponsorship welcome), collaborations on Java/security/AI projects ⭐
+Open to full-time roles (visa sponsorship welcome), collaborations on Java, security, AI, or distributed systems projects ⭐
 
 </div>
