@@ -7,86 +7,85 @@
     <img src="https://img.shields.io/badge/NEXURA_CLOUD-050816?style=for-the-badge&logo=vercel&logoColor=22D3EE" alt="NexuraCloud" />
   </a>
   <a href="https://github.com/change-everything?tab=repositories">
-    <img src="https://img.shields.io/badge/PROJECTS-050816?style=for-the-badge&logo=github&logoColor=A855F7" alt="Projects" />
+    <img src="https://img.shields.io/badge/ALL_PROJECTS-050816?style=for-the-badge&logo=github&logoColor=A855F7" alt="All projects" />
   </a>
   <a href="mailto:pyptsguas@163.com">
-    <img src="https://img.shields.io/badge/CONTACT-050816?style=for-the-badge&logo=minutemailer&logoColor=22D3EE" alt="Contact" />
+    <img src="https://img.shields.io/badge/CONTACT_ME-050816?style=for-the-badge&logo=minutemailer&logoColor=22D3EE" alt="Contact me" />
   </a>
 </p>
 
-## 01 // SYSTEM PROFILE
-
-I build production systems, applied AI, and independent software. My work spans backend architecture, modern web applications, Apple platforms, and product delivery—from the first useful prototype to reliable software used in the real world.
-
-```text
-CURRENT FOCUS   AI-assisted analytics · Automation · Independent products
-BUILD MODE      Production first · Performance aware · Product driven
-STATUS          Designing · Building · Shipping
-```
-
-## 02 // CONTRIBUTION SIGNAL
+<br>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=change-everything&amp;bg_color=050816&amp;color=94A3B8&amp;line=22D3EE&amp;point=A855F7&amp;area=true&amp;area_color=7C3AED&amp;hide_border=true&amp;custom_title=CONTRIBUTION%20SIGNAL" alt="GitHub contribution activity" />
+  <img src="./assets/profile-focus.svg" width="100%" alt="Core engineering capabilities" />
+</p>
+
+<br>
+
+<h1 align="center">CONTRIBUTION SIGNAL</h1>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=change-everything&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub contribution activity" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=change-everything&amp;show_icons=true&amp;hide_border=true&amp;bg_color=050816&amp;title_color=22D3EE&amp;text_color=CBD5E1&amp;icon_color=A855F7&amp;ring_color=22D3EE" alt="GitHub statistics" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=change-everything&amp;hide_border=true&amp;background=050816&amp;ring=22D3EE&amp;fire=A855F7&amp;currStreakNum=F8FAFC&amp;sideNums=F8FAFC&amp;currStreakLabel=22D3EE&amp;sideLabels=94A3B8&amp;dates=64748B" alt="GitHub contribution streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=change-everything&theme=tokyonight" width="100%" alt="GitHub profile summary" />
 </p>
 
-## 03 // SELECTED SYSTEMS
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=change-everything&theme=tokyonight&hide_border=true&background=050816" width="68%" alt="GitHub contribution streak" />
+</p>
+
+<br>
+
+<h1 align="center">SELECTED SYSTEMS</h1>
 
 <p align="center">
   <a href="https://github.com/change-everything/nexura-next-bi">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=change-everything&amp;repo=nexura-next-bi&amp;hide_border=true&amp;bg_color=050816&amp;title_color=22D3EE&amp;text_color=94A3B8&amp;icon_color=A855F7" alt="Nexura Next BI repository" />
+    <img src="./assets/project-nexura.svg" width="100%" alt="Nexura Next BI" />
   </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/change-everything/BrainU">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=change-everything&amp;repo=BrainU&amp;hide_border=true&amp;bg_color=050816&amp;title_color=22D3EE&amp;text_color=94A3B8&amp;icon_color=A855F7" alt="BrainU repository" />
+    <img src="./assets/project-brainu.svg" width="100%" alt="BrainU" />
   </a>
 </p>
 
-### Nexura Next BI
+<br>
 
-AI-assisted analytics that transforms natural language into structured insights and visualizations. Designed around real-time analysis, automatic chart generation, and an event-driven architecture.
-
-`Java` `Spring Boot` `React` `Redis` `WebSocket` `AIGC`
-
-### BrainU
-
-An end-to-end brain tumor segmentation and visualization system for MRI images, combining deep-learning inference, automated region detection, backend services, and an interactive web experience.
-
-`PyTorch` `OpenCV` `Spring Boot` `Vue`
-
-## 04 // TECHNOLOGY MATRIX
+<h1 align="center">TECHNOLOGY MATRIX</h1>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,vue,react,ts,nodejs,swift,python,pytorch,opencv,docker,kubernetes,redis,mysql,nginx,linux,aws&amp;theme=dark&amp;perline=9" alt="Technology stack" />
-</p>
-
-```text
-BACKEND     Java · Spring Boot · MySQL · Redis · RabbitMQ
-FRONTEND    Vue · React · TypeScript · Node.js
-APPLE       Swift · SwiftUI · UIKit · WidgetKit · App Intents
-AI / VISION Python · PyTorch · OpenCV · On-device AI
-INFRA       Docker · Kubernetes · Nginx · Linux · AWS
-```
-
-## 05 // BUILD PRINCIPLES
-
-```text
-01  Start with the user problem.
-02  Keep architecture proportional to the product.
-03  Optimize for reliability, performance, and maintainability.
-04  Ship small, measure the result, and keep improving.
-```
-
-<p align="center">
-  <a href="https://www.nexuracloud.cn">nexuracloud.cn</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="mailto:pyptsguas@163.com">pyptsguas@163.com</a>
+  <img src="./assets/profile-stack.svg" width="100%" alt="Technology matrix" />
 </p>
 
 <p align="center">
-  <sub>BUILD REAL SYSTEMS // SHIP REAL PRODUCTS // SOLVE REAL PROBLEMS</sub>
+  <img src="https://skillicons.dev/icons?i=java,spring,vue,react,ts,nodejs,swift,apple,python,pytorch,opencv,docker,kubernetes,redis,mysql,nginx,linux,aws&theme=dark&perline=9" alt="Technology icons" />
+</p>
+
+<br>
+
+<h1 align="center">BUILD MODE</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PRODUCTION_FIRST-050816?style=for-the-badge&logo=databricks&logoColor=22D3EE" alt="Production first" />
+  <img src="https://img.shields.io/badge/PERFORMANCE_DRIVEN-050816?style=for-the-badge&logo=speedtest&logoColor=3B82F6" alt="Performance driven" />
+  <img src="https://img.shields.io/badge/PRODUCT_MINDED-050816?style=for-the-badge&logo=producthunt&logoColor=A855F7" alt="Product minded" />
+  <img src="https://img.shields.io/badge/ALWAYS_SHIPPING-050816?style=for-the-badge&logo=rocket&logoColor=22D3EE" alt="Always shipping" />
+</p>
+
+<br>
+
+<p align="center">
+  <a href="https://www.nexuracloud.cn">
+    <img src="https://img.shields.io/badge/WEBSITE-NEXURA_CLOUD-050816?style=for-the-badge&logo=vercel&logoColor=22D3EE" alt="Website" />
+  </a>
+  <a href="mailto:pyptsguas@163.com">
+    <img src="https://img.shields.io/badge/EMAIL-LET'S_TALK-050816?style=for-the-badge&logo=gmail&logoColor=A855F7" alt="Email" />
+  </a>
+</p>
+
+<p align="center">
+  <strong>BUILD REAL SYSTEMS · SHIP REAL PRODUCTS · SOLVE REAL PROBLEMS</strong>
 </p>
