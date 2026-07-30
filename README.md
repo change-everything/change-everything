@@ -1,159 +1,104 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Hi,%20I'm%20Lucas.&fontAlign=50&section=header&textBg=false&fontColor=092123"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0F172A,100:2563EB&text=Hi,%20I'm%20Lucas&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=Full-Stack%20Engineer%20%C2%B7%20iOS%20Builder%20%C2%B7%20AI%20Product%20Maker&descAlignY=58&descSize=16&section=header" alt="Hi, I'm Lucas" />
 </p>
 
 <p align="center">
-  <b>System Builder · Full-Stack Engineer · AI Integration · Indie Hacker</b>
+  I build production systems, AI-powered products, and thoughtful iOS experiences.
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=change-everything&color=0e75b6&style=for-the-badge"/>
+  <a href="https://www.nexuracloud.cn">
+    <img src="https://img.shields.io/badge/Website-NexuraCloud-111827?style=flat-square&logo=vercel" alt="NexuraCloud website" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=change-everything&color=2563EB&style=flat-square&label=Profile+views" alt="Profile views" />
 </p>
 
-## 👋 About Me
-
-I build **real-world production systems** — scalable backend architecture, AI-powered applications, and monetized software products.
-
-- Full-stack system engineering  
-- AI-powered product development  
-- Distributed architecture & automation  
-- Engineering + Product mindset  
-- Shipping > Talking  
-
-**Currently building**
-
-- AI Intelligent BI Platform  
-- Automation & intelligent systems  
-- Scalable real-world products  
-
-## ⚙️ Tech Stack
+## Contribution activity
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,vue,react,ts,nodejs,docker,redis,mysql,linux,nginx,aws,python,pytorch,opencv" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=change-everything&theme=tokyo-night&hide_border=true&area=true" alt="Lucas's GitHub contribution activity" />
 </p>
 
-### 📱 Apple / iOS Ecosystem
+## About me
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=swift,objc,apple,xcode,firebase" />
-</p>
+I'm a full-stack engineer who enjoys turning ambiguous product ideas into reliable software people can actually use. My work spans backend architecture, web applications, iOS development, applied AI, and product delivery.
 
-**Core**
+Currently focused on:
 
-- Swift / SwiftUI / UIKit  
-- MVVM / Clean Architecture  
-- WidgetKit · Live Activities · App Intents  
-- On-device AI · Offline-first apps  
-- CoreData · SQLite · Realm  
-- In-App Purchase · Subscription · Monetization  
+- AI-assisted analytics and intelligent BI
+- Automation and scalable system design
+- Independent products with real users
+- Practical, maintainable engineering
 
-## 📊 Engineering Activity
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=change-everything&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=change-everything&theme=tokyonight"/>
-</p>
-
-## 🚀 Featured Projects
-
-<p align="center">
-<b>Production systems · Real engineering · Scalable architecture</b>
-</p>
+## Featured projects
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🧠 AI Intelligent BI Platform  
-Natural Language → Insight → Visualization  
+### AI Intelligent BI Platform
 
-- Real-time AI analytics engine  
-- Automatic chart & insight generation  
-- Scalable event-driven architecture  
+Natural language → structured analysis → visualization.
 
-**Stack**  
-`Java` `SpringBoot` `React` `Redis` `WebSocket` `AIGC`
+- Real-time analytics and insight generation
+- AI-assisted chart creation
+- Event-driven application architecture
+
+**Built with:** Java · Spring Boot · React · Redis · WebSocket · AIGC
 
 <a href="https://github.com/change-everything/nexura-next-bi">
-<img src="https://img.shields.io/badge/View%20Project-0a0a0a?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/Explore%20project-111827?style=for-the-badge&logo=github" alt="Explore AI Intelligent BI Platform" />
 </a>
 
 </td>
+<td width="50%" valign="top">
 
-<td width="50%">
+### Brain Tumor Segmentation
 
-### 🧬 Brain Tumor Segmentation  
-Medical AI · MRI Auto Detection  
+An end-to-end MRI segmentation and visualization project.
 
-- Deep learning medical imaging  
-- Automated tumor segmentation  
-- Clinical-grade pipeline  
+- Deep-learning image segmentation
+- Automated tumor-region detection
+- Integrated inference and web visualization
 
-**Stack**  
-`PyTorch` `OpenCV` `SpringBoot` `Vue`
+**Built with:** PyTorch · OpenCV · Spring Boot · Vue
 
 <a href="https://github.com/change-everything/BrainU">
-<img src="https://img.shields.io/badge/View%20Project-0a0a0a?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/Explore%20project-111827?style=for-the-badge&logo=github" alt="Explore Brain Tumor Segmentation" />
 </a>
 
 </td>
 </tr>
 </table>
 
+## What I build with
 
-## ⚡ Engineering Philosophy
-
-<p align="center">
-
-```text
-Build real systems · Ship real products · Solve real problems
-```
-
-</p>
-
-- Production-first mindset
-- Architecture & scalability focused
-- Performance & reliability driven
-- Automation & intelligent systems
-- Engineering + Product thinking
-
-## 🧩 Indie Hacker
+| Area | Technologies |
+| --- | --- |
+| Backend | Java · Spring Boot · MySQL · Redis · RabbitMQ |
+| Frontend | Vue · React · TypeScript · Node.js |
+| Apple platforms | Swift · SwiftUI · UIKit · WidgetKit · App Intents |
+| AI & computer vision | Python · PyTorch · OpenCV · On-device AI |
+| Infrastructure | Docker · Kubernetes · Nginx · Linux · AWS |
 
 <p align="center">
-
-```text
-Engineer who ships products, not just code
-```
-
+  <img src="https://skillicons.dev/icons?i=java,spring,vue,react,ts,nodejs,swift,python,pytorch,opencv,docker,kubernetes,redis,mysql,nginx,linux,aws&perline=9" alt="Technology stack" />
 </p>
 
-- Built monetized software products
-- Focus on profitable & scalable apps
-- Long-term product builder
-- Building in public 🚀
+## How I work
 
-## 🏆 Technical Signals
+- Start with the user problem, then choose the architecture
+- Optimize for reliability, performance, and maintainability
+- Automate repetitive work and keep systems observable
+- Ship in small steps, validate quickly, and keep improving
+
+## Connect
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=change-everything&theme=tokyo-night&hide_border=true"/>
+  <a href="https://www.nexuracloud.cn">
+    <img src="https://img.shields.io/badge/Website-NexuraCloud-111827?style=for-the-badge&logo=vercel" alt="NexuraCloud website" />
+  </a>
+  <a href="mailto:pyptsguas@163.com">
+    <img src="https://img.shields.io/badge/Email-Contact-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Lucas" />
+  </a>
 </p>
-
-
-
-## 🌍 Connect
-
-<p align="center">
-
-<a href="https://www.nexuracloud.cn">
-<img src="https://img.shields.io/badge/Website-NexuraCloud-111111?style=for-the-badge&logo=vercel"/>
-</a>
-
-<a href="mailto:pyptsguas@163.com">
-<img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
-
