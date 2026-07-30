@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="./assets/profile-hero.svg" width="100%" alt="Lucas — Full-Stack Engineer and Product Builder" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Hi,%20I'm%20Lucas.&fontAlign=50&section=header&textBg=false&fontColor=092123" width="100%" alt="Hi, I'm Lucas." />
+</p>
+
+<p align="center">
+  <b>System Builder · Full-Stack Engineer · AI Integration · Indie Hacker</b>
 </p>
 
 <p align="center">
