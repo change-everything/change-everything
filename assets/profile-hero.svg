@@ -1,0 +1,90 @@
+<svg width="1280" height="400" viewBox="0 0 1280 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Lucas — Full-Stack Engineer and Product Builder</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="400" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#030712"/>
+      <stop offset="0.55" stop-color="#07111F"/>
+      <stop offset="1" stop-color="#0B0620"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="72" y1="0" x2="620" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE"/>
+      <stop offset="0.48" stop-color="#3B82F6"/>
+      <stop offset="1" stop-color="#A855F7"/>
+    </linearGradient>
+    <radialGradient id="cyanGlow" cx="0" cy="0" r="1" gradientTransform="translate(1050 36) rotate(135) scale(390 320)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE" stop-opacity="0.2"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="violetGlow" cx="0" cy="0" r="1" gradientTransform="translate(1220 360) rotate(-145) scale(470 350)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8B5CF6" stop-opacity="0.26"/>
+      <stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M 36 0 L 0 0 0 36" fill="none" stroke="#94A3B8" stroke-opacity="0.055" stroke-width="1"/>
+    </pattern>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <clipPath id="frame">
+      <rect width="1280" height="400" rx="24"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1280" height="400" rx="24" fill="url(#bg)"/>
+    <rect width="1280" height="400" fill="url(#cyanGlow)"/>
+    <rect width="1280" height="400" fill="url(#violetGlow)"/>
+    <rect width="1280" height="400" fill="url(#grid)"/>
+
+    <path d="M0 58H1280" stroke="#94A3B8" stroke-opacity="0.12"/>
+    <circle cx="30" cy="29" r="5" fill="#FB7185"/>
+    <circle cx="49" cy="29" r="5" fill="#FBBF24"/>
+    <circle cx="68" cy="29" r="5" fill="#34D399"/>
+    <text x="100" y="34" fill="#64748B" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" letter-spacing="2">LUCAS.DEV / PROFILE</text>
+    <text x="1175" y="34" fill="#22D3EE" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" letter-spacing="1.5">ONLINE</text>
+    <circle cx="1158" cy="29" r="4" fill="#22D3EE" filter="url(#glow)">
+      <animate attributeName="opacity" values="0.35;1;0.35" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+
+    <text x="72" y="108" fill="#22D3EE" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13" letter-spacing="4">CHANGE-EVERYTHING // 2026</text>
+    <text x="68" y="205" fill="#F8FAFC" font-family="Inter, ui-sans-serif, system-ui, -apple-system, sans-serif" font-size="92" font-weight="760" letter-spacing="-3">LUCAS</text>
+    <rect x="72" y="225" width="494" height="4" rx="2" fill="url(#accent)" filter="url(#glow)"/>
+    <text x="72" y="270" fill="#CBD5E1" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="19" letter-spacing="1.2">FULL-STACK ENGINEER  /  PRODUCT BUILDER</text>
+    <text x="72" y="310" fill="#64748B" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14" letter-spacing="1.4">SYSTEMS · APPLIED AI · APPLE PLATFORMS · INDEPENDENT SOFTWARE</text>
+    <text x="72" y="352" fill="#94A3B8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13">
+      <tspan fill="#A855F7">❯</tspan>
+      <tspan dx="8">build --for-real-users --ship-continuously</tspan>
+    </text>
+
+    <g transform="translate(842 86)">
+      <rect width="366" height="238" rx="18" fill="#020617" fill-opacity="0.72" stroke="#334155" stroke-opacity="0.72"/>
+      <rect x="1" y="1" width="364" height="47" rx="17" fill="#FFFFFF" fill-opacity="0.025"/>
+      <path d="M0 48H366" stroke="#334155" stroke-opacity="0.65"/>
+      <text x="22" y="30" fill="#94A3B8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" letter-spacing="2">SYSTEM STATUS</text>
+      <text x="318" y="30" fill="#34D399" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10">ACTIVE</text>
+
+      <text x="22" y="83" fill="#475569" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11">FOCUS</text>
+      <text x="112" y="83" fill="#E2E8F0" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12">INTELLIGENT SYSTEMS</text>
+      <text x="22" y="119" fill="#475569" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11">MODE</text>
+      <text x="112" y="119" fill="#E2E8F0" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12">PRODUCTION FIRST</text>
+      <text x="22" y="155" fill="#475569" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11">STACK</text>
+      <text x="112" y="155" fill="#E2E8F0" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12">FULL / MOBILE / AI</text>
+
+      <rect x="22" y="187" width="322" height="5" rx="2.5" fill="#172033"/>
+      <rect x="22" y="187" width="254" height="5" rx="2.5" fill="url(#accent)">
+        <animate attributeName="width" values="210;288;254;210" dur="5.5s" repeatCount="indefinite"/>
+      </rect>
+      <text x="22" y="217" fill="#64748B" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" letter-spacing="1">BUILDING THE NEXT RELEASE</text>
+    </g>
+
+    <rect x="0" y="-12" width="1280" height="2" fill="url(#accent)" opacity="0.24">
+      <animate attributeName="y" values="-12;412" dur="6s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <rect x="0.75" y="0.75" width="1278.5" height="398.5" rx="23.25" stroke="url(#accent)" stroke-opacity="0.28" stroke-width="1.5"/>
+</svg>
