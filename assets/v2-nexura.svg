@@ -1,0 +1,40 @@
+<svg width="1280" height="360" viewBox="0 0 1280 360" xmlns="http://www.w3.org/2000/svg">
+<style>
+:root{--bg:#fff;--fg:#0d1117;--muted:#57606a;--line:#d0d7de;--soft:#f6f8fa;--blue:#0969da}
+@media(prefers-color-scheme:dark){:root{--bg:#161b22;--fg:#f0f6fc;--muted:#8b949e;--line:#30363d;--soft:#21262d;--blue:#58a6ff}}
+text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}
+</style>
+<rect x="1" y="1" width="1278" height="358" rx="24" fill="var(--bg)" stroke="var(--line)"/>
+<g transform="translate(26 26)">
+  <rect width="570" height="308" rx="18" fill="#f8fafc" stroke="#e5e7eb"/>
+  <rect width="64" height="308" rx="18" fill="#111827"/>
+  <circle cx="32" cy="34" r="10" fill="#60a5fa"/>
+  <rect x="19" y="72" width="26" height="5" rx="2.5" fill="#64748b"/>
+  <rect x="19" y="95" width="26" height="5" rx="2.5" fill="#64748b"/>
+  <rect x="88" y="28" width="118" height="14" rx="7" fill="#111827"/>
+  <rect x="88" y="66" width="105" height="56" rx="12" fill="#ffffff" stroke="#e5e7eb"/>
+  <rect x="207" y="66" width="105" height="56" rx="12" fill="#ffffff" stroke="#e5e7eb"/>
+  <rect x="326" y="66" width="105" height="56" rx="12" fill="#ffffff" stroke="#e5e7eb"/>
+  <rect x="445" y="66" width="96" height="56" rx="12" fill="#ffffff" stroke="#e5e7eb"/>
+  <text x="102" y="90" font-size="9" fill="#64748b">Revenue</text><text x="102" y="111" font-size="17" font-weight="700" fill="#111827">1.24M</text>
+  <text x="221" y="90" font-size="9" fill="#64748b">Growth</text><text x="221" y="111" font-size="17" font-weight="700" fill="#16a34a">+12.5%</text>
+  <rect x="88" y="144" width="286" height="132" rx="14" fill="#ffffff" stroke="#e5e7eb"/>
+  <path d="M108 244L145 224L183 230L220 198L258 210L296 171L334 185L352 160" fill="none" stroke="#3b82f6" stroke-width="4"/>
+  <rect x="392" y="144" width="149" height="132" rx="14" fill="#ffffff" stroke="#e5e7eb"/>
+  <rect x="408" y="163" width="92" height="10" rx="5" fill="#dbeafe"/>
+  <rect x="408" y="188" width="115" height="8" rx="4" fill="#e5e7eb"/>
+  <rect x="408" y="210" width="102" height="8" rx="4" fill="#e5e7eb"/>
+  <rect x="408" y="232" width="82" height="8" rx="4" fill="#e5e7eb"/>
+</g>
+<text x="640" y="86" font-size="38" font-weight="760" fill="var(--fg)">Nexura Next BI</text>
+<text x="640" y="124" font-size="19" fill="var(--muted)">Natural-language BI and visual analytics</text>
+<text x="640" y="171" font-size="16" fill="var(--muted)">Turn business questions into interactive charts and insights</text>
+<text x="640" y="196" font-size="16" fill="var(--muted)">with a full-stack analytics workflow.</text>
+<g transform="translate(640 230)">
+  <rect width="54" height="32" rx="16" fill="var(--soft)"/><text x="14" y="21" font-size="12" fill="var(--fg)">Java</text>
+  <g transform="translate(64)"><rect width="94" height="32" rx="16" fill="var(--soft)"/><text x="13" y="21" font-size="12" fill="var(--fg)">Spring Boot</text></g>
+  <g transform="translate(168)"><rect width="60" height="32" rx="16" fill="var(--soft)"/><text x="13" y="21" font-size="12" fill="var(--fg)">React</text></g>
+  <g transform="translate(238)"><rect width="58" height="32" rx="16" fill="var(--soft)"/><text x="13" y="21" font-size="12" fill="var(--fg)">Redis</text></g>
+</g>
+<text x="640" y="309" font-size="15" font-weight="700" fill="var(--fg)">View repository →</text>
+</svg>
