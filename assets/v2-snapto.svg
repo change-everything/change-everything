@@ -1,0 +1,35 @@
+<svg width="620" height="460" viewBox="0 0 620 460" xmlns="http://www.w3.org/2000/svg">
+<style>
+:root{--bg:#fff;--fg:#0d1117;--muted:#57606a;--line:#d0d7de;--soft:#f6f8fa;--blue:#1677ff}
+@media(prefers-color-scheme:dark){:root{--bg:#161b22;--fg:#f0f6fc;--muted:#8b949e;--line:#30363d;--soft:#21262d;--blue:#58a6ff}}
+text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}
+</style>
+<rect x="1" y="1" width="618" height="458" rx="24" fill="var(--bg)" stroke="var(--line)"/>
+<rect x="28" y="28" width="54" height="54" rx="14" fill="#111827"/>
+<path d="M47 43h17l-5 10h8L51 69l4-12h-8l0-14Z" fill="#f5c542"/>
+<text x="28" y="122" font-size="34" font-weight="760" fill="var(--fg)">SnapTo</text>
+<text x="28" y="153" font-size="17" fill="var(--muted)">AI-powered expense tracking for iPhone</text>
+<text x="28" y="199" font-size="16" fill="var(--muted)">Capture a receipt. Extract the details.</text>
+<text x="28" y="224" font-size="16" fill="var(--muted)">Turn everyday spending into a visual diary.</text>
+
+<g transform="translate(340 56)">
+  <rect width="202" height="344" rx="42" fill="#111827"/>
+  <rect x="8" y="8" width="186" height="328" rx="36" fill="#f8fafc"/>
+  <rect x="72" y="17" width="58" height="16" rx="8" fill="#111827"/>
+  <text x="24" y="68" font-size="12" font-weight="700" fill="#111827">SnapTo</text>
+  <rect x="28" y="91" width="146" height="168" rx="8" fill="#fff" stroke="#e5e7eb"/>
+  <path d="M43 107h116M43 123h82M43 139h105M43 174h116M43 190h93M43 226h116" stroke="#d1d5db" stroke-width="5" stroke-linecap="round"/>
+  <text x="43" y="162" font-size="14" font-weight="700" fill="#111827">¥35.20</text>
+  <rect x="24" y="282" width="154" height="38" rx="12" fill="var(--blue)"/>
+  <text x="67" y="306" font-size="12" font-weight="700" fill="#fff">Save expense</text>
+</g>
+
+<g transform="translate(28 286)">
+  <rect width="58" height="30" rx="15" fill="var(--soft)"/><text x="14" y="20" font-size="12" fill="var(--fg)">Swift</text>
+  <g transform="translate(68)"><rect width="72" height="30" rx="15" fill="var(--soft)"/><text x="13" y="20" font-size="12" fill="var(--fg)">SwiftUI</text></g>
+  <g transform="translate(150)"><rect width="66" height="30" rx="15" fill="var(--soft)"/><text x="13" y="20" font-size="12" fill="var(--fg)">Vision</text></g>
+  <g transform="translate(226)"><rect width="82" height="30" rx="15" fill="var(--soft)"/><text x="13" y="20" font-size="12" fill="var(--fg)">CloudKit</text></g>
+</g>
+<rect x="28" y="344" width="156" height="44" rx="12" fill="var(--fg)"/>
+<text x="49" y="371" font-size="14" font-weight="700" fill="var(--bg)">View SnapTo →</text>
+</svg>
