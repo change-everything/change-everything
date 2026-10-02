@@ -1,0 +1,39 @@
+<svg width="620" height="460" viewBox="0 0 620 460" xmlns="http://www.w3.org/2000/svg">
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}
+</style>
+<rect x="1" y="1" width="618" height="458" rx="24" fill="#0b0d0f" stroke="#25282c"/>
+<rect x="28" y="28" width="54" height="54" rx="14" fill="#d8ff3e"/>
+<path d="M40 53h7v-8h6v8h14v-8h6v8h7v6h-7v8h-6v-8H53v8h-6v-8h-7v-6Z" fill="#0b0d0f"/>
+<text x="28" y="122" font-size="34" font-weight="760" fill="#f7f7f8">Pavo</text>
+<text x="28" y="153" font-size="17" fill="#a5aab2">Training &amp; nutrition, built for progress</text>
+<text x="28" y="199" font-size="16" fill="#a5aab2">Linear strength planning, progressive overload,</text>
+<text x="28" y="224" font-size="16" fill="#a5aab2">and adaptive nutrition in one focused iPhone app.</text>
+
+<g transform="translate(340 56)">
+  <rect width="202" height="344" rx="42" fill="#050607" stroke="#333"/>
+  <rect x="8" y="8" width="186" height="328" rx="36" fill="#111315"/>
+  <rect x="72" y="17" width="58" height="16" rx="8" fill="#050607"/>
+  <text x="24" y="66" font-size="12" fill="#8c929c">TODAY</text>
+  <text x="24" y="92" font-size="22" font-weight="750" fill="#f7f7f8">Push</text>
+  <rect x="22" y="116" width="158" height="48" rx="12" fill="#1a1d20"/>
+  <text x="36" y="137" font-size="12" font-weight="700" fill="#f7f7f8">Bench Press</text>
+  <text x="36" y="154" font-size="10" fill="#8c929c">5 × 5 · 82.5 kg</text>
+  <rect x="22" y="174" width="158" height="48" rx="12" fill="#1a1d20"/>
+  <text x="36" y="195" font-size="12" font-weight="700" fill="#f7f7f8">Overhead Press</text>
+  <text x="36" y="212" font-size="10" fill="#8c929c">3 × 5 · 50 kg</text>
+  <rect x="22" y="244" width="158" height="8" rx="4" fill="#272b2f"/>
+  <rect x="22" y="244" width="108" height="8" rx="4" fill="#d8ff3e"/>
+  <rect x="22" y="278" width="158" height="40" rx="12" fill="#d8ff3e"/>
+  <text x="56" y="303" font-size="12" font-weight="750" fill="#0b0d0f">Start workout</text>
+</g>
+
+<g transform="translate(28 286)">
+  <rect width="58" height="30" rx="15" fill="#1a1d20"/><text x="14" y="20" font-size="12" fill="#e8eaed">Swift</text>
+  <g transform="translate(68)"><rect width="72" height="30" rx="15" fill="#1a1d20"/><text x="13" y="20" font-size="12" fill="#e8eaed">SwiftUI</text></g>
+  <g transform="translate(150)"><rect width="70" height="30" rx="15" fill="#1a1d20"/><text x="13" y="20" font-size="12" fill="#e8eaed">Charts</text></g>
+  <g transform="translate(230)"><rect width="48" height="30" rx="15" fill="#1a1d20"/><text x="15" y="20" font-size="12" fill="#e8eaed">iOS</text></g>
+</g>
+<rect x="28" y="344" width="142" height="44" rx="12" fill="#d8ff3e"/>
+<text x="49" y="371" font-size="14" font-weight="750" fill="#0b0d0f">In development</text>
+</svg>
