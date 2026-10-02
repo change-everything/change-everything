@@ -1,95 +1,96 @@
-<p align="center">
-  <img src="./assets/v2-hero.svg" width="100%" alt="Lucas — Software Engineer and Indie Developer" />
-</p>
+# Hi, I'm Lucas.
 
-<p align="center">
-  <a href="https://github.com/change-everything?tab=repositories"><b>Projects</b></a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://www.nexuracloud.cn"><b>Website</b></a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="mailto:pyptsguas@163.com"><b>Contact</b></a>
-</p>
+**Software Engineer · Full-Stack Builder · Indie Developer**
 
-<br>
+I like building software that goes all the way from **idea → architecture → implementation → product**.
 
-## Currently Building
+My strongest area is not a single framework. It is the ability to connect backend systems, product thinking, AI capabilities and client-side experiences into something that can actually be shipped and used.
 
-<table>
-<tr>
-<td width="50%" valign="top">
-  <a href="https://snapto.site/">
-    <img src="./assets/v2-snapto.svg" width="100%" alt="SnapTo" />
-  </a>
-</td>
-<td width="50%" valign="top">
-  <img src="./assets/v2-pavo.svg" width="100%" alt="Pavo" />
-</td>
-</tr>
-</table>
+---
 
-<br>
+## What I do well
 
-## Selected Engineering Work
+| | Strength | What that means in practice |
+|---|---|---|
+| **01** | **Build end to end** | I can move between backend architecture, APIs, databases, frontend/client work, deployment and product decisions instead of treating each layer in isolation. |
+| **02** | **Design real backend systems** | Java / Spring Boot is my core engineering foundation. I care about system boundaries, service design, data flow, performance and maintainability — not just CRUD. |
+| **03** | **Turn AI into product capability** | I work with Python, PyTorch, OpenCV and AI integrations, with more interest in making models useful inside a real system than building isolated demos. |
+| **04** | **Think like a product builder** | I also build native Apple products with Swift / SwiftUI. That keeps me close to UX, iteration, user feedback and the last mile between engineering and a usable product. |
 
-<a href="https://github.com/change-everything/BrainU">
-  <img src="./assets/v2-brainu.svg" width="100%" alt="BrainU — MRI segmentation and interactive medical imaging" />
-</a>
+---
 
-<br>
+## How I think about engineering
 
-<a href="https://github.com/change-everything/nexura-next-bi">
-  <img src="./assets/v2-nexura.svg" width="100%" alt="Nexura Next BI — natural-language BI and visual analytics" />
-</a>
+**Systems over snippets.**  
+I prefer understanding the whole flow — where data comes from, how services communicate, where complexity should live, and how the product behaves after deployment.
 
-<br>
+**Simple interfaces, complexity underneath.**  
+A good product should feel simple even when the implementation is not. I am willing to put complexity into the system so users do not have to deal with it.
 
-## Tech Stack
+**Ship, observe, improve.**  
+I value architecture, but I do not optimize for architectural beauty alone. Software becomes meaningful after it is used, measured and iterated.
 
-<table>
-<tr>
-<td width="25%" valign="top">
+**Use the right tool for the problem.**  
+My work spans Java backend systems, SwiftUI apps, Python/AI workloads and modern frontend stacks. I care more about fit than technology identity.
 
-### Backend
-`Java` · `Spring Boot`  
-`MySQL` · `Redis`
+---
 
-</td>
-<td width="25%" valign="top">
+## Selected engineering work
 
-### Apple
-`Swift` · `SwiftUI`  
-`Vision` · `CloudKit`
+### [BrainU](https://github.com/change-everything/BrainU)
+Deep-learning MRI segmentation and interactive medical imaging.
 
-</td>
-<td width="25%" valign="top">
+A cross-stack project combining **PyTorch / OpenCV**, backend services and an interactive visualization client. Recent work includes evolving the Java–Python integration from native socket communication to an HTTP API.
 
-### AI / Data
-`Python` · `PyTorch`  
-`OpenCV`
+### [Nexura Next BI](https://github.com/change-everything/nexura-next-bi)
+Natural-language BI and visual analytics.
 
-</td>
-<td width="25%" valign="top">
+A full-stack analytics system built around turning business questions into structured queries, insights and visual results.
 
-### Infrastructure
-`Docker` · `Linux`  
-`Nginx`
+### [Nexura OJ](https://github.com/change-everything/nexura-oj-backend)
+Online judge system split across frontend, backend, sandbox and microservice repositories.
 
-</td>
-</tr>
-</table>
+This project reflects how I approach service boundaries, execution isolation and multi-service architecture.
 
-<br>
+### [SwiftUI Demos](https://github.com/change-everything/SwiftUI_Demos)
+A collection of native Apple-platform experiments and UI work.
 
-## Elsewhere
+It represents the other side of my engineering work: interaction, client architecture and product-facing implementation.
 
-<p>
-  <a href="https://github.com/change-everything">GitHub</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://www.nexuracloud.cn">Website</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="mailto:pyptsguas@163.com">Email</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://snapto.site/">SnapTo</a>
-</p>
+---
 
-<sub>Building real systems, shipping real products, solving real problems.</sub>
+## Core stack
+
+**Backend**  
+Java · Spring Boot · MySQL · Redis · RabbitMQ
+
+**Apple**  
+Swift · SwiftUI · Vision · CloudKit · App Intents
+
+**AI / Data**  
+Python · PyTorch · OpenCV
+
+**Frontend**  
+React · Vue · TypeScript
+
+**Infrastructure**  
+Docker · Linux · Nginx
+
+---
+
+## Current direction
+
+I am increasingly interested in work where **backend systems, AI and product engineering meet**:
+
+- AI capabilities embedded into real applications
+- intelligent tools instead of isolated model demos
+- native Apple products with strong interaction design
+- small teams and products where engineering decisions directly affect users
+
+---
+
+## Find me
+
+[GitHub](https://github.com/change-everything) · [Website](https://www.nexuracloud.cn) · [SnapTo](https://snapto.site/) · [Email](mailto:pyptsguas@163.com)
+
+<sub>Build the system. Ship the product. Keep improving.</sub>
