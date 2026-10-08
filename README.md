@@ -74,6 +74,16 @@ Architecture matters, but software becomes valuable after it reaches users. I pr
 
 <br>
 
+## 3D Contribution Tower
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-gitblock.svg" width="100%" alt="3D GitHub contribution tower generated from real contribution activity" />
+</p>
+
+<sub>Generated from GitHub contribution activity · Updated daily with GitHub Actions</sub>
+
+---
+
 ## Core stack
 
 <table>
