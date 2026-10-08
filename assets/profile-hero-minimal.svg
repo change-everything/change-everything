@@ -1,0 +1,16 @@
+<svg width="1280" height="300" viewBox="0 0 1280 300" xmlns="http://www.w3.org/2000/svg">
+<style>
+:root{--bg:#ffffff;--fg:#0d1117;--muted:#57606a;--line:#d0d7de;--soft:#f6f8fa;--accent:#0969da}
+@media(prefers-color-scheme:dark){:root{--bg:#0d1117;--fg:#f0f6fc;--muted:#8b949e;--line:#30363d;--soft:#161b22;--accent:#58a6ff}}
+text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}
+</style>
+<rect width="1280" height="300" rx="28" fill="var(--bg)"/>
+<rect x="1" y="1" width="1278" height="298" rx="27" fill="none" stroke="var(--line)"/>
+<circle cx="72" cy="65" r="7" fill="var(--accent)"/>
+<text x="96" y="72" font-size="17" font-weight="650" letter-spacing="2" fill="var(--muted)">SOFTWARE ENGINEER · INDIE DEVELOPER</text>
+<text x="70" y="155" font-size="72" font-weight="760" letter-spacing="-3" fill="var(--fg)">Lucas</text>
+<text x="72" y="201" font-size="22" fill="var(--muted)">Backend systems · AI engineering · Apple products · Product thinking</text>
+<line x1="72" y1="235" x2="1208" y2="235" stroke="var(--line)"/>
+<text x="72" y="270" font-size="15" fill="var(--muted)">I build software from idea → architecture → implementation → product.</text>
+<text x="1208" y="270" text-anchor="end" font-size="15" font-weight="650" fill="var(--fg)">change-everything</text>
+</svg>
