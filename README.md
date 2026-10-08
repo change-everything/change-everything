@@ -1,150 +1,126 @@
-<p align="center">
-  <img src="./assets/profile-hero-minimal.svg" width="100%" alt="Lucas — Software Engineer and Indie Developer" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/change-everything?tab=repositories">Repositories</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://www.nexuracloud.cn">Website</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://snapto.site/">SnapTo</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="mailto:pyptsguas@163.com">Email</a>
-</p>
-
-<br>
-
-## What I bring
-
 <table>
-<tr>
-<td width="50%" valign="top">
-
-### 01 · End-to-end engineering
-
-I can move from **architecture and APIs** to databases, clients, deployment and product decisions without treating each layer as a separate world.
-
-The advantage is not “knowing more frameworks.” It is being able to see the whole system and make trade-offs across it.
-
-</td>
-<td width="50%" valign="top">
-
-### 02 · Backend as a foundation
-
-**Java / Spring Boot** is my core engineering base.
-
-I care about service boundaries, data flow, reliability, performance and maintainability — the parts that determine whether a system can keep evolving after the first version ships.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 03 · AI that becomes a feature
-
-I work with **Python, PyTorch, OpenCV and AI integrations**.
-
-I am more interested in turning AI into a dependable part of a product workflow than building an isolated model demo.
-
-</td>
-<td width="50%" valign="top">
-
-### 04 · Product-side execution
-
-I also build native Apple products with **Swift / SwiftUI**.
-
-That gives me direct exposure to interaction design, user feedback, iteration and the final gap between “the system works” and “the product feels good.”
-
-</td>
-</tr>
+  <tr>
+    <td width="66%" valign="top">
+      <sub>SOFTWARE ENGINEER &nbsp;/&nbsp; INDEPENDENT BUILDER</sub>
+      <h1>Lucas.</h1>
+      <h3>From architecture to the last interaction.</h3>
+      <p>I design backend systems, bring AI into real workflows, and build native Apple products. I care about how the <strong>whole thing</strong> works — not just one layer of the stack.</p>
+      <p>
+        <a href="https://github.com/change-everything?tab=repositories">Repositories ↗</a>
+        &nbsp;&nbsp;·&nbsp;&nbsp;
+        <a href="https://www.nexuracloud.cn">Website ↗</a>
+        &nbsp;&nbsp;·&nbsp;&nbsp;
+        <a href="mailto:pyptsguas@163.com">Contact ↗</a>
+      </p>
+    </td>
+    <td width="34%" valign="top">
+      <sub>FIELDS / 2026</sub>
+      <p><strong>01 &nbsp; Backend systems</strong></p>
+      <p><strong>02 &nbsp; Applied AI</strong></p>
+      <p><strong>03 &nbsp; Apple platforms</strong></p>
+      <p><strong>04 &nbsp; Product engineering</strong></p>
+    </td>
+  </tr>
 </table>
 
 <br>
 
-## How I build
+<sub>01 / WHAT SETS ME APART</sub>
 
-**Systems over snippets**  
-Understand the full flow first: where data comes from, how components communicate, where complexity belongs, and how the software behaves in production.
+## An engineer who sees the whole system.
 
-**Simple outside, deliberate inside**  
-Users should not have to understand the complexity required to serve them well. Good engineering often means absorbing that complexity behind a clear interface.
-
-**Ship → observe → improve**  
-Architecture matters, but software becomes valuable after it reaches users. I prefer decisions that survive contact with real usage.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <sub>01 — END TO END</sub>
+      <h3>Connect the layers.</h3>
+      <p>Architecture, APIs, data, clients and deployment are parts of the same product. I can work across them and make decisions with the full picture in mind.</p>
+    </td>
+    <td width="50%" valign="top">
+      <sub>02 — SYSTEMS</sub>
+      <h3>Engineer for what comes next.</h3>
+      <p>My foundation is Java and Spring Boot. I focus on service boundaries, reliability, performance and keeping systems maintainable as requirements change.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <sub>03 — APPLIED AI</sub>
+      <h3>Make intelligence useful.</h3>
+      <p>With Python, PyTorch, OpenCV and AI integrations, my goal is to put capabilities into reliable workflows — not stop at a model demonstration.</p>
+    </td>
+    <td width="50%" valign="top">
+      <sub>04 — PRODUCT</sub>
+      <h3>Own the last mile.</h3>
+      <p>I build native iOS apps with Swift and SwiftUI, including <a href="https://snapto.site/">SnapTo</a>. Working close to the interface keeps engineering grounded in real use.</p>
+    </td>
+  </tr>
+</table>
 
 <br>
 
-## 3D Contribution Tower
+<sub>02 / HOW I WORK</sub>
+
+## Make the complex feel simple.
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <sub>THINK</sub>
+      <h3>Systems, not snippets.</h3>
+      <p>Understand the data flow, interfaces and trade-offs before choosing abstractions.</p>
+    </td>
+    <td width="33%" valign="top">
+      <sub>BUILD</sub>
+      <h3>Clarity over ceremony.</h3>
+      <p>Keep the user experience simple and put necessary complexity in the right place.</p>
+    </td>
+    <td width="34%" valign="top">
+      <sub>SHIP</sub>
+      <h3>Reality is the test.</h3>
+      <p>Deliver, observe how software is used, then improve what actually matters.</p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<sub>03 / TOOLKIT</sub>
+
+## Tools I reach for.
+
+| Focus | Technologies |
+|:--|:--|
+| **Backend & architecture** | Java · Spring Boot · MySQL · Redis |
+| **Native Apple** | Swift · SwiftUI · Vision · CloudKit |
+| **AI & computer vision** | Python · PyTorch · OpenCV |
+| **Web** | TypeScript · React · Vue |
+| **Infrastructure** | Docker · Linux · Nginx |
+
+<br>
+
+<sub>04 / CONTRIBUTIONS</sub>
+
+## Work in progress, every day.
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-gitblock.svg" width="100%" alt="3D GitHub contribution tower generated from real contribution activity" />
+  <img src="./profile-3d-contrib/profile-gitblock.svg" width="100%" alt="3D contribution tower visualizing real GitHub contribution activity" />
 </p>
 
-<sub>Generated from GitHub contribution activity · Updated daily with GitHub Actions</sub>
+<sub>3D contribution visualization generated from GitHub activity using <a href="https://github.com/yoshi389111/github-profile-3d-contrib">github-profile-3d-contrib</a>. Updated automatically via GitHub Actions.</sub>
 
 ---
 
-## Core stack
-
 <table>
-<tr>
-<td width="20%" valign="top">
-
-**Backend**
-
-`Java`  
-`Spring Boot`  
-`MySQL`  
-`Redis`
-
-</td>
-<td width="20%" valign="top">
-
-**Apple**
-
-`Swift`  
-`SwiftUI`  
-`Vision`  
-`CloudKit`
-
-</td>
-<td width="20%" valign="top">
-
-**AI / Data**
-
-`Python`  
-`PyTorch`  
-`OpenCV`
-
-</td>
-<td width="20%" valign="top">
-
-**Frontend**
-
-`React`  
-`Vue`  
-`TypeScript`
-
-</td>
-<td width="20%" valign="top">
-
-**Infrastructure**
-
-`Docker`  
-`Linux`  
-`Nginx`
-
-</td>
-</tr>
+  <tr>
+    <td width="66%" valign="top">
+      <sub>WHAT I'M INTERESTED IN</sub>
+      <h2>Backend × AI × Product.</h2>
+      <p>Building useful software where strong systems engineering and thoughtful product experiences meet.</p>
+    </td>
+    <td width="34%" valign="middle">
+      <p><a href="https://snapto.site/">SnapTo ↗</a></p>
+      <p><a href="https://www.nexuracloud.cn">Website ↗</a></p>
+      <p><a href="mailto:pyptsguas@163.com">Get in touch ↗</a></p>
+    </td>
+  </tr>
 </table>
-
-<br>
-
-> ### Current direction
-> I am most interested in the space where **backend systems, AI and product engineering meet** — building intelligent tools and polished products where technical decisions directly affect the user experience.
-
-<br>
-
-<p align="center">
-  <b>Build the system. Ship the product. Keep improving.</b>
-</p>
