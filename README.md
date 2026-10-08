@@ -1,96 +1,140 @@
-# Hi, I'm Lucas.
+<p align="center">
+  <img src="./assets/profile-hero-minimal.svg" width="100%" alt="Lucas — Software Engineer and Indie Developer" />
+</p>
 
-**Software Engineer · Full-Stack Builder · Indie Developer**
+<p align="center">
+  <a href="https://github.com/change-everything?tab=repositories">Repositories</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://www.nexuracloud.cn">Website</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://snapto.site/">SnapTo</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="mailto:pyptsguas@163.com">Email</a>
+</p>
 
-I like building software that goes all the way from **idea → architecture → implementation → product**.
+<br>
 
-My strongest area is not a single framework. It is the ability to connect backend systems, product thinking, AI capabilities and client-side experiences into something that can actually be shipped and used.
+## What I bring
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## What I do well
+### 01 · End-to-end engineering
 
-| | Strength | What that means in practice |
-|---|---|---|
-| **01** | **Build end to end** | I can move between backend architecture, APIs, databases, frontend/client work, deployment and product decisions instead of treating each layer in isolation. |
-| **02** | **Design real backend systems** | Java / Spring Boot is my core engineering foundation. I care about system boundaries, service design, data flow, performance and maintainability — not just CRUD. |
-| **03** | **Turn AI into product capability** | I work with Python, PyTorch, OpenCV and AI integrations, with more interest in making models useful inside a real system than building isolated demos. |
-| **04** | **Think like a product builder** | I also build native Apple products with Swift / SwiftUI. That keeps me close to UX, iteration, user feedback and the last mile between engineering and a usable product. |
+I can move from **architecture and APIs** to databases, clients, deployment and product decisions without treating each layer as a separate world.
 
----
+The advantage is not “knowing more frameworks.” It is being able to see the whole system and make trade-offs across it.
 
-## How I think about engineering
+</td>
+<td width="50%" valign="top">
 
-**Systems over snippets.**  
-I prefer understanding the whole flow — where data comes from, how services communicate, where complexity should live, and how the product behaves after deployment.
+### 02 · Backend as a foundation
 
-**Simple interfaces, complexity underneath.**  
-A good product should feel simple even when the implementation is not. I am willing to put complexity into the system so users do not have to deal with it.
+**Java / Spring Boot** is my core engineering base.
 
-**Ship, observe, improve.**  
-I value architecture, but I do not optimize for architectural beauty alone. Software becomes meaningful after it is used, measured and iterated.
+I care about service boundaries, data flow, reliability, performance and maintainability — the parts that determine whether a system can keep evolving after the first version ships.
 
-**Use the right tool for the problem.**  
-My work spans Java backend systems, SwiftUI apps, Python/AI workloads and modern frontend stacks. I care more about fit than technology identity.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
----
+### 03 · AI that becomes a feature
 
-## Selected engineering work
+I work with **Python, PyTorch, OpenCV and AI integrations**.
 
-### [BrainU](https://github.com/change-everything/BrainU)
-Deep-learning MRI segmentation and interactive medical imaging.
+I am more interested in turning AI into a dependable part of a product workflow than building an isolated model demo.
 
-A cross-stack project combining **PyTorch / OpenCV**, backend services and an interactive visualization client. Recent work includes evolving the Java–Python integration from native socket communication to an HTTP API.
+</td>
+<td width="50%" valign="top">
 
-### [Nexura Next BI](https://github.com/change-everything/nexura-next-bi)
-Natural-language BI and visual analytics.
+### 04 · Product-side execution
 
-A full-stack analytics system built around turning business questions into structured queries, insights and visual results.
+I also build native Apple products with **Swift / SwiftUI**.
 
-### [Nexura OJ](https://github.com/change-everything/nexura-oj-backend)
-Online judge system split across frontend, backend, sandbox and microservice repositories.
+That gives me direct exposure to interaction design, user feedback, iteration and the final gap between “the system works” and “the product feels good.”
 
-This project reflects how I approach service boundaries, execution isolation and multi-service architecture.
+</td>
+</tr>
+</table>
 
-### [SwiftUI Demos](https://github.com/change-everything/SwiftUI_Demos)
-A collection of native Apple-platform experiments and UI work.
+<br>
 
-It represents the other side of my engineering work: interaction, client architecture and product-facing implementation.
+## How I build
 
----
+**Systems over snippets**  
+Understand the full flow first: where data comes from, how components communicate, where complexity belongs, and how the software behaves in production.
+
+**Simple outside, deliberate inside**  
+Users should not have to understand the complexity required to serve them well. Good engineering often means absorbing that complexity behind a clear interface.
+
+**Ship → observe → improve**  
+Architecture matters, but software becomes valuable after it reaches users. I prefer decisions that survive contact with real usage.
+
+<br>
 
 ## Core stack
 
-**Backend**  
-Java · Spring Boot · MySQL · Redis · RabbitMQ
+<table>
+<tr>
+<td width="20%" valign="top">
 
-**Apple**  
-Swift · SwiftUI · Vision · CloudKit · App Intents
+**Backend**
 
-**AI / Data**  
-Python · PyTorch · OpenCV
+`Java`  
+`Spring Boot`  
+`MySQL`  
+`Redis`
 
-**Frontend**  
-React · Vue · TypeScript
+</td>
+<td width="20%" valign="top">
 
-**Infrastructure**  
-Docker · Linux · Nginx
+**Apple**
 
----
+`Swift`  
+`SwiftUI`  
+`Vision`  
+`CloudKit`
 
-## Current direction
+</td>
+<td width="20%" valign="top">
 
-I am increasingly interested in work where **backend systems, AI and product engineering meet**:
+**AI / Data**
 
-- AI capabilities embedded into real applications
-- intelligent tools instead of isolated model demos
-- native Apple products with strong interaction design
-- small teams and products where engineering decisions directly affect users
+`Python`  
+`PyTorch`  
+`OpenCV`
 
----
+</td>
+<td width="20%" valign="top">
 
-## Find me
+**Frontend**
 
-[GitHub](https://github.com/change-everything) · [Website](https://www.nexuracloud.cn) · [SnapTo](https://snapto.site/) · [Email](mailto:pyptsguas@163.com)
+`React`  
+`Vue`  
+`TypeScript`
 
-<sub>Build the system. Ship the product. Keep improving.</sub>
+</td>
+<td width="20%" valign="top">
+
+**Infrastructure**
+
+`Docker`  
+`Linux`  
+`Nginx`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+> ### Current direction
+> I am most interested in the space where **backend systems, AI and product engineering meet** — building intelligent tools and polished products where technical decisions directly affect the user experience.
+
+<br>
+
+<p align="center">
+  <b>Build the system. Ship the product. Keep improving.</b>
+</p>
